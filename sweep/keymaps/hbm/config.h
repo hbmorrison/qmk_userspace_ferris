@@ -18,5 +18,4 @@
 // the handed mods affect keys on the same side, rather than applying to the
 // opposite side.
 
-#define CORE_KEYMAP_THUMB_MODS
-#define HANDED_MODS_SAME_SIDE
+#define CORE_KEYMAP_THUMB_EXT
