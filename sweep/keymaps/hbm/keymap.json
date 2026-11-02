@@ -1,9 +1,7 @@
 {
     "modules": [
-        "hbm/conditional_layers",
         "hbm/core_keymap",
         "hbm/custom_keys",
-        "hbm/handed_mods",
         "hbm/windows_shortcuts"
     ]
 }
